@@ -1,0 +1,7 @@
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe.config
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.exe
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\bin\Debug\URLEncoder.pdb
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csprojAssemblyReference.cache
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.exe
+C:\Users\austi\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.pdb
